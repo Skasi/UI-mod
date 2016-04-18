@@ -1,0 +1,10 @@
+	Name: UI mod, May 18. 2016
+	Description: Improvements to the user interface with the aim of displaying more information in places where they matter.
+
+	* More info in resource bar tooltips. (eg. influence/research generation efficiencies)
+	* Artifact and Influence Card purchase/activation costs visible in quickbar.
+	* More quickbar menus enabled by default. (cards, labor planets, defense targets)
+	* Research tree unlock prices visible at second zoom level.
+	* Star temperature displayed in tooltips.
+	* Planet pressure display expanded to Active / Imported / Cap. (Active is new)
+	* Planet tooltip now always shows population cap.
